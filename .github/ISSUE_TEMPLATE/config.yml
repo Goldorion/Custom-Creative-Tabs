@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links: 
+  - name: "Youtube"
+    url: https://www.youtube.com/@Goldorion
+    about: My Youtube Channel
+    
+  - name: "GitHub"
+    url: https://github.com/Goldorion
+    about: My GitHub Page
